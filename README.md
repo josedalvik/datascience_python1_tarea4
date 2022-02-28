@@ -1,8 +1,8 @@
-Universidad Galileo
-Maestría de Ciencia de Datos
-Curso Ciencia de Datos con Python
-Jose Godoy
-Carnet 22000570
-27 de febrero 2022 
-
+Universidad Galileo<br/>
+Maestría de Ciencia de Datos<br/>
+Curso Ciencia de Datos con Python<br/>
+Jose Godoy<br/>
+Carnet 22000570<br/>
+27 de febrero 2022 <br/>
+<br/>
 Ejercicios prácticos preparatorios para parcial
